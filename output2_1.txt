@@ -1,0 +1,26 @@
+Danh sach canh 2 :
+a --- b
+a --- c
+a --- e
+b --- d
+c --- b
+d --- c
+d --- e
+e --- a
+e --- d
+Bac cua dinh :
+deg(a)+ = 1
+deg(a)- = 3
+
+deg(b)+ = 2
+deg(b)- = 1
+
+deg(c)+ = 2
+deg(c)- = 1
+
+deg(d)+ = 2
+deg(d)- = 2
+
+deg(e)+ = 2
+deg(e)- = 2
+

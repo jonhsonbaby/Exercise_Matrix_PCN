@@ -1,0 +1,18 @@
+Danh sach canh va bac 1:
+
+a --- b
+a --- d
+a --- e
++ Dinh a co bac la: 3
+b --- c
+b --- e
+b --- f
++ Dinh b co bac la: 4
+c --- d
+c --- f
++ Dinh c co bac la: 3
+d --- e
++ Dinh d co bac la: 3
+e --- f
++ Dinh e co bac la: 4
++ Dinh f co bac la: 3

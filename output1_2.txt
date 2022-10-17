@@ -1,0 +1,15 @@
+Danh sach ke tu danh sach canh 1_2:  
+a : b d e ;
+b : a c e f ;
+c : b d f ;
+d : a c e ;
+e : a b d f ;
+f : b c e ;
+
+Bac cua tung dinh: 
++ Dinh a co bac la: 3
++ Dinh b co bac la: 4
++ Dinh c co bac la: 3
++ Dinh d co bac la: 3
++ Dinh e co bac la: 4
++ Dinh f co bac la: 3

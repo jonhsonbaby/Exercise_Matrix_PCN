@@ -1,0 +1,6 @@
+a : b d e ;
+b : a c e f ;
+c : b d f ;
+d : a c e ;
+e : a b d f ;
+f : b c e ;
